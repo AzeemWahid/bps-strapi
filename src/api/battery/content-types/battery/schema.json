@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "batteries",
+  "info": {
+    "singularName": "battery",
+    "pluralName": "batteries",
+    "displayName": "Battery",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "amphrs": {
+      "type": "integer"
+    },
+    "type": {
+      "type": "string"
+    },
+    "enginebayready": {
+      "type": "boolean"
+    },
+    "heatproof": {
+      "type": "boolean"
+    },
+    "waterproof": {
+      "type": "boolean"
+    },
+    "lowvoltageprotection": {
+      "type": "boolean"
+    },
+    "controller": {
+      "type": "text"
+    },
+    "power": {
+      "type": "text"
+    },
+    "voltage": {
+      "type": "integer"
+    }
+  }
+}
