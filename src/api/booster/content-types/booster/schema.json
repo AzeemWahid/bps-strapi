@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "boosters",
+  "info": {
+    "singularName": "booster",
+    "pluralName": "boosters",
+    "displayName": "Booster"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "booster": {
+      "type": "string"
+    }
+  }
+}

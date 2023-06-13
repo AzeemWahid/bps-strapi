@@ -109,6 +109,7 @@ coverage
 .env
 .env.production
 .env.example
+.env.staging
 .yaml
 license.txt
 exports

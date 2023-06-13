@@ -16,3 +16,4 @@ COPY . .
 RUN ["yarn", "build"]
 EXPOSE 1338
 CMD ["yarn", "develop"]
+

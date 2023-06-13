@@ -41,6 +41,9 @@
     },
     "voltage": {
       "type": "integer"
+    },
+    "price": {
+      "type": "float"
     }
   }
 }

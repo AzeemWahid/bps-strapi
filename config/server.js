@@ -8,3 +8,6 @@ module.exports = ({ env }) => ({
     populateRelations: env.bool('WEBHOOKS_POPULATE_RELATIONS', false),
   },
 });
+
+console.log(process.env.NODE_ENV)
+console.log(process.env.DATABASE_HOST)

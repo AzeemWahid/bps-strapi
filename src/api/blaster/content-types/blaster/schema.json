@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blasters",
+  "info": {
+    "singularName": "blaster",
+    "pluralName": "blasters",
+    "displayName": "Blaster"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "blaster": {
+      "type": "string"
+    }
+  }
+}

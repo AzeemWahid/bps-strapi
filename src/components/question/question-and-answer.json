@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_support_question_and_answers",
+  "info": {
+    "displayName": "Installation",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Question": {
+      "type": "text"
+    },
+    "Answer": {
+      "type": "text"
+    }
+  }
+}
